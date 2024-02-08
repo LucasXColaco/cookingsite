@@ -28,13 +28,15 @@
     main{
         width: 375px;
     }
+    .p{
+        width: 375px;
+    }
 }
 
 body{
     background-color: var(--Eggshell);
     font-family: 'outfit';
     align-items: center;
-    font-size: 16px;
     color: var(--WengeBrown);
 }
 
@@ -53,6 +55,7 @@ main{
 p{
     line-height: 25px;
     padding-right: 30px;
+    font-size: 16px;
 }
 
 img{
@@ -70,7 +73,6 @@ h1{
 }
 
 h2{
-    font-size: 29px;
     font-family: 'young';
     font-weight: 400;
     color: var(--Nutmeg);
@@ -78,7 +80,6 @@ h2{
 
 h3{
     padding-left: 20px;
-    font-size: 20px;
     color: var(--DarkRaspberry);
 }
 
@@ -91,8 +92,7 @@ hr{
 
 .p{
     background-color: var(--RoseWhite);
-    min-width: 375px;
-    max-width: 630px;
+    width: 630px;
     padding: 10px 20px;
     margin-top: 40px;
     margin-bottom: 40px;
