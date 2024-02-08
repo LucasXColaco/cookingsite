@@ -18,7 +18,7 @@
     --DarkCharcoal: hsl(24, 5%, 18%);
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 376px) {
     body{
         width: 375px;
     }
