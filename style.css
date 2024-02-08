@@ -24,12 +24,13 @@
     }
     img{
         width: 375px;
+        border-radius: 0;
     }
     main{
         width: 375px;
     }
     .p{
-        width: 375px;
+        width: 320px;
     }
 }
 
