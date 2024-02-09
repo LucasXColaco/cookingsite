@@ -19,8 +19,10 @@
 }
 
 body{
+    display: flex;
+    justify-content: center;
     width: 375px;
-    background-color: red;
+    background-color: white;
     font-family: 'outfit';
     align-items: center;
     color: var(--WengeBrown);
