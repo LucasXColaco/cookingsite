@@ -20,7 +20,7 @@
 
 body{
     width: 375px;
-    background-color: white;
+    background-color: red;
     font-family: 'outfit';
     align-items: center;
     color: var(--WengeBrown);
