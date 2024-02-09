@@ -19,7 +19,8 @@
 }
 
 body{
-    background-color: var(--Eggshell);
+    width: 375px;
+    background-color: white;
     font-family: 'outfit';
     align-items: center;
     color: var(--WengeBrown);
