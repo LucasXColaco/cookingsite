@@ -21,6 +21,7 @@
 body{
     display: flex;
     justify-content: center;
+    margin: 0 auto;
     width: 375px;
     background-color: white;
     font-family: 'outfit';
