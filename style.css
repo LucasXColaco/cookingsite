@@ -133,6 +133,7 @@ span.l{
     }
     
     body{
+        margin: 0 auto;
         background-color: var(--Eggshell);
         font-family: 'outfit';
         align-items: center;
